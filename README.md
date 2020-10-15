@@ -1,2 +1,2 @@
 # Finance-Platform-API-Wrapper
-Do Finance API things
+Generic investment platform API framework with IG's spread bet for proof of concept 
